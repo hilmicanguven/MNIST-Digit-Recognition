@@ -1,5 +1,10 @@
-# MNIST-Digit-Recognition-with-Keras
-
+# MNIST-Digit-Recognition-with-CNN-Keras
+ In this project, we build deep learning model in order to recognize the hand-written digits. We use Keras library and these steps have been done
+ 1. Data pre-process
+ 2. Create CNN Model and Training
+ 3. Evaluate the model success
+ 4. Predict new images with trained model
+ 
 <div align="center">
   <img src="https://www.karabayyazilim.com/uploads/blogs/keras-nedir-2020-02-08-225241/keras-nedir-2020-02-08-225241-0.jpg" width="400">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/320px-MnistExamples.png" width="350">

@@ -1,8 +1,8 @@
 # MNIST-Digit-Recognition-with-Keras
 
 <div align="center">
-  <img src="https://www.karabayyazilim.com/uploads/blogs/keras-nedir-2020-02-08-225241/keras-nedir-2020-02-08-225241-0.jpg" width="450">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/320px-MnistExamples.png" width="400">
+  <img src="https://www.karabayyazilim.com/uploads/blogs/keras-nedir-2020-02-08-225241/keras-nedir-2020-02-08-225241-0.jpg" width="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MnistExamples.png/320px-MnistExamples.png" width="350">
 </div>
 
 ## Introduction

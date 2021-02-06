@@ -23,9 +23,23 @@
   ```bash
   conda env create --file bio-env.txt
   ```
+ * If you want to install libraries manually, then fundamental packages as follows
+ -----------------------------
+| Library     |  Version      |
+|-------------|-------------  |
+|   Tensorflow    |   1.14.0           |
+|   Keras         |   2.3.1          |
+|   Pandas        |   1.1.3          |
+|   Numpy         |   1.19.1            |
+|   Matplotlib    |   3.3.1          |
+-----------------------------
 
 ## Usage
 * Download this repo and run "mnist-digit-recognition.ipynb" file jupyter notebook.
 * Download dataset from above link and exract csv files (test and train) to the same file where your code is
 
 ## Experiment Results
+result of the experiments as shown below. Notice that, there are hyper-parameters (epoch and batch size, optimizer, loss function etc) that should be considered
+
+![res1](accuracy-graph.png) 
+![res2](loss-graph.png)

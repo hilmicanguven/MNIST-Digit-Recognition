@@ -18,10 +18,11 @@
 
 ## Requirements & Dependencies
 * We build our algorithm using "Anaconda Environment" on Jupyter Notebook.
-* Required packages and libraries are given as txt file (bio-enc.txt). You can directly create environment like this:
+* Required packages and libraries are given as txt file (bio-enc.txt). You can directly create environment and activate like this:
   
   ```bash
   conda env create --file bio-env.txt
+  conda activate env
   ```
  * If you want to install libraries manually, then fundamental packages as follows
  -----------------------------

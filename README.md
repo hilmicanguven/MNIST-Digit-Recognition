@@ -36,8 +36,9 @@
 -----------------------------
 
 ## Usage
+* Download publicly available dataset from above link and exract csv files (test and train) to the same file where your code is
 * Download this repo and run "mnist-digit-recognition.ipynb" file jupyter notebook.
-* Download dataset from above link and exract csv files (test and train) to the same file where your code is
+
 
 ## Experiment Results
 result of the experiments as shown below. Notice that, there are hyper-parameters (epoch and batch size, optimizer, loss function etc) that should be considered

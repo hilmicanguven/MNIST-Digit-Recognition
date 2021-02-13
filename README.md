@@ -24,7 +24,7 @@
   conda env create --file bio-env.txt
   conda activate env
   ```
- * If you want to install libraries manually, then fundamental packages as follows
+ * If you want to install libraries manually, then fundamental packages are as follows
  -----------------------------
 | Library     |  Version      |
 |-------------|-------------  |
